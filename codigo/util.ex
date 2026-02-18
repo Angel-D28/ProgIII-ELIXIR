@@ -43,5 +43,34 @@ o puede usar
   |> String.trim()
   end
 
-
+    def ingresar(mensaje, :entero) do
+    try do
+    mensaje
+    |> Util.ingresar(:texto)
+    |> String.to_integer()
+    rescue
+      ArgumentError ->
+        "Entrada no válida. Por favor, ingresa un número entero."
+        |>mostrar_error2()
+        ingresar(mensaje, :entero)
+    end
+  end
+  def ingresar(mensaje, :real) do
+  try do
+    mensaje
+    |> Util.ingresar(:texto)
+    |> String.to_float()
+  rescue
+    ArgumentError ->
+      "Entrada no válida. Por favor, ingresa un número real."
+      |> mostrar_error()
+      ingresar(mensaje, :real)
+  end
+end
+  def mostrar_error(mensaje) do
+    System.cmd("python3", ["mostrar_dialogo_error.py", mensaje])
+  end
+  def mostrar_error2(mensaje) do
+    IO.puts(:standard_error, mensaje)
+  end
 end
