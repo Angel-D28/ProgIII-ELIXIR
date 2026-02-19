@@ -43,6 +43,32 @@ o puede usar
   |> String.trim()
   end
 
+def ingresar(mensaje, :entero), do: ingresar(mensaje, &String.to_integer/1, :entero)
+
+def ingresar(mensaje, :real), do: ingresar(mensaje, &String.to_float/1, :real)
+
+  defp ingresar(mensaje, funcion_conversion, tipo_dato) do
+    try do
+      mensaje
+      |> ingresar(:texto)
+      |> funcion_conversion.()
+    rescue
+      ArgumentError ->
+        "Entrada no válida. Por favor, ingresa un número #{tipo_dato}."
+        |> mostrar_error()
+        ingresar(mensaje, tipo_dato)
+    end
+  end
+
+  def mostrar_error(mensaje) do
+    System.cmd("python3", ["mostrar_dialogo_error.py", mensaje])
+  end
+
+  def mostrar_error2(mensaje) do
+    IO.puts(:standard_error, mensaje)
+  end
+
+  """
     def ingresar(mensaje, :entero) do
     try do
     mensaje
@@ -67,10 +93,6 @@ o puede usar
       ingresar(mensaje, :real)
   end
 end
-  def mostrar_error(mensaje) do
-    System.cmd("python3", ["mostrar_dialogo_error.py", mensaje])
-  end
-  def mostrar_error2(mensaje) do
-    IO.puts(:standard_error, mensaje)
-  end
+"""
+
 end
