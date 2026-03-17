@@ -23,6 +23,10 @@ defmodule Util do
     System.cmd("python3", ["mostrar_dialogo.py", mensaje])
   end
 
+  def mostrar_mensaje_terminal(mensaje) do
+    IO.puts(mensaje)
+  end
+
   @doc """
   Funcion para ingresar una cadena de texto desde consola
   ## Parámetro
@@ -75,7 +79,7 @@ defmodule Util do
   end
 
   def calcular_factorial(0), do: 1
-  def calcular_factorial(n), do: n * calcular_factorial(n - 1)
+  def calcular_factorial(m), do: m * calcular_factorial(m - 1)
 
   """
       def ingresar(mensaje, :entero) do
