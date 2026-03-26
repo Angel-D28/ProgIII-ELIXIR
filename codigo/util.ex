@@ -26,6 +26,9 @@ defmodule Util do
   def mostrar_mensaje_terminal(mensaje) do
     IO.puts(mensaje)
   end
+  def mostrar_mensaje_listas(mensaje) do
+    IO.inspect(mensaje)
+  end
 
   @doc """
   Funcion para ingresar una cadena de texto desde consola
