@@ -53,6 +53,15 @@ defmodule Util do
 
   def ingresar(mensaje, :real), do: ingresar(mensaje, &String.to_float/1, :real)
 
+  def ingresar(mensaje, :boolean) do
+    valor =
+      mensaje
+      |>ingresar(:texto)
+      |>String.downcase()
+
+    Enum.member?(["si","sí","s"], valor)
+  end
+
   defp ingresar(mensaje, funcion_conversion, tipo_dato) do
     try do
       mensaje
