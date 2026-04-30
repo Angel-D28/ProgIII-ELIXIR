@@ -1,4 +1,5 @@
 clear
 rm *.beam
 elixirc util.ex
-elixirc 32.cliente.ex
+elixirc cliente.ex
+elixirc BenchMark.ex

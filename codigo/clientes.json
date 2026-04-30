@@ -1,0 +1,920 @@
+[
+{
+"cliente":
+    {
+      "nombre": "Ana",
+      "edad": 16,
+      "altura": 1.7
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Juan",
+      "edad": 20,
+      "altura": 1.72
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Diana",
+      "edad": 48,
+      "altura": 1.71
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Julian",
+      "edad": 51,
+      "altura": 1.73
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Isabella",
+      "edad": 6,
+      "altura": 1.0
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Sara",
+      "edad": 8,
+      "altura": 1.3
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Carlos",
+      "edad": 25,
+      "altura": 1.75
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Luisa",
+      "edad": 30,
+      "altura": 1.68
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Mateo",
+      "edad": 12,
+      "altura": 1.5
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Valentina",
+      "edad": 18,
+      "altura": 1.65
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Andres",
+      "edad": 40,
+      "altura": 1.8
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Camila",
+      "edad": 22,
+      "altura": 1.6
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Sebastian",
+      "edad": 35,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Daniela",
+      "edad": 27,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Santiago",
+      "edad": 15,
+      "altura": 1.55
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Paula",
+      "edad": 33,
+      "altura": 1.66
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Nicolas",
+      "edad": 45,
+      "altura": 1.82
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Laura",
+      "edad": 29,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "David",
+      "edad": 50,
+      "altura": 1.77
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Maria",
+      "edad": 19,
+      "altura": 1.58
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Felipe",
+      "edad": 38,
+      "altura": 1.74
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Jorge",
+      "edad": 41,
+      "altura": 1.79
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Elena",
+      "edad": 24,
+      "altura": 1.63
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Ricardo",
+      "edad": 36,
+      "altura": 1.76
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Patricia",
+      "edad": 28,
+      "altura": 1.61
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Diego",
+      "edad": 32,
+      "altura": 1.73
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Fernanda",
+      "edad": 21,
+      "altura": 1.59
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Alberto",
+      "edad": 55,
+      "altura": 1.81
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Gabriela",
+      "edad": 26,
+      "altura": 1.67
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Oscar",
+      "edad": 47,
+      "altura": 1.83
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Claudia",
+      "edad": 34,
+      "altura": 1.65
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Hugo",
+      "edad": 39,
+      "altura": 1.77
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Natalia",
+      "edad": 23,
+      "altura": 1.6
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Rafael",
+      "edad": 44,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Adriana",
+      "edad": 31,
+      "altura": 1.66
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Victor",
+      "edad": 52,
+      "altura": 1.82
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Angela",
+      "edad": 20,
+      "altura": 1.57
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Mario",
+      "edad": 37,
+      "altura": 1.75
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Sandra",
+      "edad": 42,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Eduardo",
+      "edad": 48,
+      "altura": 1.79
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Liliana",
+      "edad": 29,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Roberto",
+      "edad": 53,
+      "altura": 1.8
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Carolina",
+      "edad": 27,
+      "altura": 1.63
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Pablo",
+      "edad": 34,
+      "altura": 1.76
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Monica",
+      "edad": 45,
+      "altura": 1.68
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Cesar",
+      "edad": 38,
+      "altura": 1.74
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Tatiana",
+      "edad": 22,
+      "altura": 1.59
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Guillermo",
+      "edad": 49,
+      "altura": 1.81
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Rosa",
+      "edad": 33,
+      "altura": 1.61
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Julio",
+      "edad": 46,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Marcela",
+      "edad": 25,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Ivan",
+      "edad": 35,
+      "altura": 1.77
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Gloria",
+      "edad": 41,
+      "altura": 1.66
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Leonardo",
+      "edad": 28,
+      "altura": 1.75
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Veronica",
+      "edad": 36,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Esteban",
+      "edad": 43,
+      "altura": 1.79
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Beatriz",
+      "edad": 30,
+      "altura": 1.63
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Cristian",
+      "edad": 26,
+      "altura": 1.74
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Doris",
+      "edad": 52,
+      "altura": 1.67
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Mauricio",
+      "edad": 39,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Olga",
+      "edad": 47,
+      "altura": 1.65
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Jaime",
+      "edad": 54,
+      "altura": 1.8
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Yolanda",
+      "edad": 44,
+      "altura": 1.66
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Alex",
+      "edad": 23,
+      "altura": 1.72
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Noemi",
+      "edad": 31,
+      "altura": 1.6
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Brayan",
+      "edad": 19,
+      "altura": 1.73
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Lorena",
+      "edad": 37,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Kevin",
+      "edad": 21,
+      "altura": 1.75
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Martha",
+      "edad": 50,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Cristina",
+      "edad": 28,
+      "altura": 1.65
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Samuel",
+      "edad": 33,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Jonathan",
+      "edad": 27,
+      "altura": 1.76
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Andrea",
+      "edad": 24,
+      "altura": 1.61
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Fabian",
+      "edad": 40,
+      "altura": 1.79
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Paola",
+      "edad": 35,
+      "altura": 1.63
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Emilio",
+      "edad": 45,
+      "altura": 1.81
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Julieta",
+      "edad": 22,
+      "altura": 1.58
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Raul",
+      "edad": 48,
+      "altura": 1.77
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Carmen",
+      "edad": 53,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Bruno",
+      "edad": 29,
+      "altura": 1.74
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Silvia",
+      "edad": 38,
+      "altura": 1.66
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Martin",
+      "edad": 42,
+      "altura": 1.8
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Teresa",
+      "edad": 46,
+      "altura": 1.67
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Agustin",
+      "edad": 34,
+      "altura": 1.75
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Ines",
+      "edad": 41,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "German",
+      "edad": 37,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Alicia",
+      "edad": 49,
+      "altura": 1.65
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Lucas",
+      "edad": 26,
+      "altura": 1.73
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Elsa",
+      "edad": 55,
+      "altura": 1.63
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Manuel",
+      "edad": 51,
+      "altura": 1.79
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Nora",
+      "edad": 32,
+      "altura": 1.61
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Tomas",
+      "edad": 28,
+      "altura": 1.76
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Julia",
+      "edad": 43,
+      "altura": 1.64
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Enrique",
+      "edad": 47,
+      "altura": 1.81
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Lina",
+      "edad": 25,
+      "altura": 1.6
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Oscar",
+      "edad": 36,
+      "altura": 1.78
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Daniel",
+      "edad": 39,
+      "altura": 1.77
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Sofia",
+      "edad": 18,
+      "altura": 1.62
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Mateo2",
+      "edad": 17,
+      "altura": 1.68
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Valeria",
+      "edad": 20,
+      "altura": 1.59
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Emmanuel",
+      "edad": 23,
+      "altura": 1.74
+    }
+  }
+,
+{
+"cliente":
+    {
+      "nombre": "Sara2",
+      "edad": 16,
+      "altura": 1.57
+    }
+  }
+
+]

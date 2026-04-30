@@ -1,21 +1,21 @@
 defmodule ContarVocales do
   def main do
     cadena = Util.ingresar("ingrese una oracion o palabra: ", :texto)
-    conteo = contarVocales(cadena)
+    conteo = contar_vocales(cadena)
     generar_mensaje(cadena , conteo)
     |>Util.mostrar_mensaje()
   end
 
-  defp contarVocales(""), do: 0
+  defp contar_vocales(""), do: 0
 
-  defp contarVocales(cadena) do
+  defp contar_vocales(cadena) do
     primer_caracter = String.first(cadena)
     resto = String.slice(cadena, 1..-1//1)
 
     if es_vocal?(primer_caracter) do
-      1 + contarVocales(resto)
+      1 + contar_vocales(resto)
     else
-      contarVocales(resto)
+      contar_vocales(resto)
     end
   end
 
